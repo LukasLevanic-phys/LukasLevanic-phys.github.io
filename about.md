@@ -1,3 +1,7 @@
---- layout:Lukas's homepage: About permalink: /about/ ---
+---
+layout:Lukas's homepage: 
+title: About
+permalink: /about/
+---
 
 Im Lukas. Im a physics student at the Faculty of Science, Univ of ZG etcetc
